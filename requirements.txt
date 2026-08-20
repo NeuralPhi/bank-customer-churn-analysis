@@ -1,0 +1,11 @@
+# Data Manipulation & Analysis
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Statistical Testing & Machine Learning
+scikit-learn
+scipy
