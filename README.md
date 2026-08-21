@@ -103,7 +103,7 @@ bank_customer_churn_analysis/
 
 ## 📖 Deep Dive & Connect
 
-* **Full Article:** For an in-depth breakdown of the business narrative, strategic insights, and methodology, read the full publication on **[Medium](https://medium.com/@yourusername)**.
+* **Full Article:** For an in-depth breakdown of the business narrative, strategic insights, and methodology, read the full publication on **[Medium](https://medium.com/@opadojajoshua/bank-customer-churn-analysis-c6573b42f61f)**.
 * **Let's Connect:** Follow or reach out on **[LinkedIn](https://www.linkedin.com/in/joshua-opadoja/)** and **[X](https://x.com/JDataCraft)**.
 
 ⭐ **If you found this project useful or insightful, consider giving this repository a star!**
