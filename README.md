@@ -85,6 +85,7 @@ bank_customer_churn_analysis/
 ├── notebooks/             # Jupyter Notebooks (EDA, Statistical Tests, ML)
 ├── reports/               # Visual assets & executive dashboards
 ├── .gitignore             # Rules for excluded files/folders
+├── LICENSE                # Open-source MIT licensing terms
 ├── README.md              # Executive summary & project documentation
 └── requirements.txt       # Required Python dependencies
 ```
