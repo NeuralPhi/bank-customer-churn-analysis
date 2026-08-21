@@ -388,6 +388,8 @@ Frame the insights found better and make recommendations
 
 
 
+The negative correlation ($r = -0.30$) confirms an important behavioral link: customers holding 3 or 4 products tend to maintain smaller account balances. Since both over-bundling ($3+$ products) and low active balances ($1–$50k) independently trigger high churn risk, this correlation proves that multi-product accounts in this bank are often diluted, high-risk relationships
+
 
 
 ##### **Next Step:**

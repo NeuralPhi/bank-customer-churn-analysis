@@ -7,13 +7,7 @@ venv/
 Thumbs.db
 
 .vscode/
-practice notebooks/
-personal reviews/
-practice_data/
 
-TDI_Capstone/Python_Cohort_Week_16_Project_Capstone.pdf
-TDI_Capstone/visuals/churn_image.png
-TDI_Capstone/data/Bank+Customer+Churn
-TDI_Capstone/data/Bank+Customer+Churn.zip
-TDI_Capstone/Project Documentation.docx
-
+data/Bank+Customer+Churn
+data/Bank+Customer+Churn.zip
+reports/presentation.pptx
