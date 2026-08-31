@@ -65,8 +65,10 @@ A **Random Forest Classifier** was trained on an 80/20 train-test split (with de
 * **Precision (Class 1 - Churn):** `78%`
 * **Recall (Class 1 - Churn):** `40%`
 
-### Trade-off (Precision over Recall):
-The model prioritizes high Precision (78%) over broad Recall (40%). This design choice ensures that automated retention alerts are highly trustworthy, preventing the bank from wasting intervention budgets on low-risk accounts—accepting lower overall churn detection in exchange for minimal false alarms.
+### Trade-off: Precision vs. Recall
+The model achieves 78% precision but only 40% recall for churned customers. This means most customers flagged by the model are genuine churn risks, but the model misses a substantial proportion of customers who ultimately leave. This represents a precision–recall trade-off: the model produces relatively targeted alerts but sacrifices coverage of potential churners.
+
+This conservative behavior reduces false alarms but may limit the bank's ability to identify customers who are at risk of churning. Future iterations could explore techniques such as classification-threshold tuning to improve recall while maintaining an acceptable level of precision.
 
 ## 💡 Strategic Recommendations
 
